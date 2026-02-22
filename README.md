@@ -43,7 +43,7 @@
 ![enter image description here](https://img.icons8.com/?size=100&id=b6vIINYN0kfW&format=png&color=000000)
 
 > Analytics
-![enter image description here](https://img.icons8.com/?size=100&id=viVPreeQBfSH&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=bMkmDxPRZAld&format=png&color=000000)
+![enter image description here](https://img.icons8.com/?size=100&id=viVPreeQBfSH&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=bMkmDxPRZAld&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000)
 
 > Microservices
 ![enter image description here](https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=lhwQTv6iwznO&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000)
