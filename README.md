@@ -56,7 +56,7 @@
 ## Contacts
 
 - Email: lovchikovmmark@gmail.com
-- Telegram: https://t.me/@Cy_b_er_1
+- Telegram: https://t.me/@absolute_fullstack
 
     ```c
     # include <std.io>
