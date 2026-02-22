@@ -37,7 +37,7 @@
 ![enter image description here](https://img.icons8.com/?size=100&id=Wln8Z3PcXanx&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=106562&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=25728&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=34886&format=png&color=000000)
 
 > Databases
-![enter image description here](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)
+![enter image description here](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=qGUfLiYi1bRN&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000)![enter image description here](https://rosa.ru/wp-content/uploads/2022/11/cassandra-logo-sq.png)
 
 > State managers
 ![enter image description here](https://img.icons8.com/?size=100&id=b6vIINYN0kfW&format=png&color=000000)
