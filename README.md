@@ -25,7 +25,7 @@
 ## Technology stack
 
 > Languages
-![enter image description here](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=e2hIFBAN6UIe&format=png&color=000000)
+![enter image description here](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000)
 
 > Backend
 ![enter image description here](https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=SDVmtZ6VBGXt&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000)
