@@ -46,7 +46,7 @@
 ![enter image description here](https://img.icons8.com/?size=100&id=bMkmDxPRZAld&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=Ei4ZhVQvIMHE&format=png&color=000000)
 
 > Microservices
-![enter image description here](https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=lhwQTv6iwznO&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=25728&format=png&color=000000)
+![enter image description here](https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=25728&format=png&color=000000)
 
 > Operation systems
 ![enter image description here](https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=108792&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=122980&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=17836&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=30840&format=png&color=000000)
