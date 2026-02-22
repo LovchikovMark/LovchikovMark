@@ -49,7 +49,7 @@
 ![enter image description here](https://img.icons8.com/?size=100&id=fOhLNqGJsUbJ&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=t2x6DtCn5Zzx&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=25728&format=png&color=000000)
 
 > Operation systems
-![enter image description here](https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=108792&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=122980&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=17836&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=30840&format=png&color=000000)
+![enter image description here](https://img.icons8.com/?size=100&id=m6O2bFdG70gw&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=108792&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=17836&format=png&color=000000)
 
 > Cyber security
 ![enter image description here](https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=v5aFhu6h1M57&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=101665&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=115558&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=PW0ChfedZvTh&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=809oYgzPo8Zq&format=png&color=000000)
