@@ -57,12 +57,3 @@
 
 - Email: lovchikovmmark@gmail.com
 - Telegram: https://t.me/@absolute_fullstack
-
-    ```c
-    # include <std.io>
-    
-    int main()
-    {
-	    printf("Ready for new meetins");
-	    return 0;
-	}
