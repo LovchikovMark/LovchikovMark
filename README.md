@@ -28,7 +28,7 @@
 ![enter image description here](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=nCj4PvnCO0tZ&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000)
 
 > Backend
-![enter image description here](https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000)
+![enter image description here](https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=54087&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=1BC75jFEBED6&format=png&color=000000)![enter image description here](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAiZAAZAA0)
 
 > Frontend
 ![enter image description here](https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=axPniFSugeXC&format=png&color=000000)
@@ -37,7 +37,7 @@
 ![enter image description here](https://img.icons8.com/?size=100&id=Wln8Z3PcXanx&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=cvzmaEA4kC0o&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=106562&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=34886&format=png&color=000000)
 
 > Databases
-![enter image description here](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000)
+![enter image description here](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=yjSayFwWHyCo&format=png&color=000000)![enter image description here](https://img.icons8.com/?size=100&id=tBBf3P8HL0vR&format=png&color=000000)
 
 > State managers
 ![enter image description here](https://img.icons8.com/?size=100&id=b6vIINYN0kfW&format=png&color=000000)
